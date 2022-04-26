@@ -1,0 +1,23 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "A javascript library that does stuff with strings",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiermoralesdev/string-utils.git"
+  },
+  "author": "javier-morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiermoralesdev/string-utils/issues"
+  },
+  "homepage": "https://github.com/javiermoralesdev/string-utils#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
